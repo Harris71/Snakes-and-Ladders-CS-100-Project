@@ -68,14 +68,6 @@ assets/fonts/arial.ttf
 assets/fonts/SuperFunky.ttf
 ```
 
-> Note: The font files may not be included in this cleaned GitHub version.  
-> If the game does not show text correctly, add compatible `.ttf` font files inside `assets/fonts/` and rename them exactly as:
-
-```text
-arial.ttf
-SuperFunky.ttf
-```
-
 ---
 
 # How to Run
@@ -304,32 +296,6 @@ make clean
 This deletes the `build/` folder.
 
 ---
-
-## GitHub Upload Notes
-
-Before uploading to GitHub, include:
-
-```text
-src/
-assets/
-docs/
-README.md
-Makefile
-CMakeLists.txt
-.gitignore
-```
-
-Avoid uploading compiled files such as:
-
-```text
-main.exe
-main.o
-snakes-and-ladders
-snakes-and-ladders.exe
-build/
-```
-
-These are generated files and do not need to be stored in the repository.
 
 ---
 
