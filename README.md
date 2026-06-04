@@ -6,6 +6,10 @@ The project includes a menu screen, singleplayer mode, local multiplayer mode, b
 
 ---
 
+<p align="center">
+  <img src="https://github.com/Harris71/Snakes-and-Ladders-CS-100-Project-/blob/main/SnakesAndLadders-SFML/assets/images/GameBoard.png">
+</p>
+
 ## Features
 
 - Singleplayer mode
