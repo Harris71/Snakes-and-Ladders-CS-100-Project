@@ -177,12 +177,6 @@ If your project is inside your Windows Downloads folder, go to it like this:
 cd /mnt/c/Users/YOUR_WINDOWS_USERNAME/Downloads/SnakesAndLadders-SFML
 ```
 
-Example:
-
-```bash
-cd /mnt/c/Users/Harris/Downloads/SnakesAndLadders-SFML
-```
-
 ### 2. Install dependencies
 
 ```bash
@@ -259,12 +253,6 @@ Example if the project is in Downloads:
 
 ```bash
 cd /c/Users/YOUR_WINDOWS_USERNAME/Downloads/SnakesAndLadders-SFML
-```
-
-Example:
-
-```bash
-cd /c/Users/Harris/Downloads/SnakesAndLadders-SFML
 ```
 
 ### 5. Run the game
