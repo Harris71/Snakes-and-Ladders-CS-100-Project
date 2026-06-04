@@ -41,7 +41,6 @@ SnakesAndLadders-SFML/
 │   └── fonts/
 ├── docs/
 │   └── FlowChart.pdf
-├── CMakeLists.txt
 ├── Makefile
 ├── .gitignore
 └── README.md
@@ -294,8 +293,6 @@ make clean
 ```
 
 This deletes the `build/` folder.
-
----
 
 ---
 
