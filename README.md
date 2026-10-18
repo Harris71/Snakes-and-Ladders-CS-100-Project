@@ -80,13 +80,13 @@ Make sure you run the game from the **main project folder**, not from inside `sr
 Correct folder:
 
 ```text
-SnakesAndLadders-SFML/
+Snakes-and-Ladders-CS-100-Project-/
 ```
 
 Wrong folder:
 
 ```text
-SnakesAndLadders-SFML/src/
+Snakes-and-Ladders-CS-100-Project-/src/
 ```
 
 This matters because the code loads assets using paths like:
@@ -123,7 +123,7 @@ sudo dnf install gcc-c++ make SFML-devel
 Example:
 
 ```bash
-cd ~/Downloads/SnakesAndLadders-SFML
+cd ~/Downloads/Snakes-and-Ladders-CS-100-Project-
 ```
 
 Check that you are in the right place:
@@ -135,7 +135,7 @@ ls
 You should see something like:
 
 ```text
-src  assets  docs  Makefile  CMakeLists.txt  README.md
+src  assets  docs  Makefile  README.md
 ```
 
 ### 3. Compile and run
@@ -174,7 +174,7 @@ Open your Ubuntu/WSL terminal.
 If your project is inside your Windows Downloads folder, go to it like this:
 
 ```bash
-cd /mnt/c/Users/YOUR_WINDOWS_USERNAME/Downloads/SnakesAndLadders-SFML
+cd /mnt/c/Users/YOUR_WINDOWS_USERNAME/Downloads/Snakes-and-Ladders-CS-100-Project-
 ```
 
 ### 2. Install dependencies
@@ -252,7 +252,7 @@ pacman -S mingw-w64-x86_64-gcc mingw-w64-x86_64-sfml make
 Example if the project is in Downloads:
 
 ```bash
-cd /c/Users/YOUR_WINDOWS_USERNAME/Downloads/SnakesAndLadders-SFML
+cd /c/Users/YOUR_WINDOWS_USERNAME/Downloads/Snakes-and-Ladders-CS-100-Project-
 ```
 
 ### 5. Run the game
